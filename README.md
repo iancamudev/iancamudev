@@ -33,5 +33,3 @@ Soy un desarrollador web fullstack capaz de realizar aplicaciones completas, tan
 <a href="mailto:iancamu01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iancamu01@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-
-⭐️ From [@anandmainali](https://github.com/anandmainali)
