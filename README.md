@@ -10,6 +10,7 @@ Soy un desarrollador web fullstack capaz de realizar aplicaciones completas, tan
 ### Tecnologias 🌐
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" width="28"> Javascript
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" width="28"> Typescript
 <img src="https://cdn-icons-png.flaticon.com/512/753/753244.png" alt="React" width="24"> React
 <img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="Nodejs" width="24"> Nodejs
 <img src="https://i.imgur.com/8j4ZT5t.png" alt="Express" width="40"> Express 
