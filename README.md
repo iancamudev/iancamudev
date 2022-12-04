@@ -28,7 +28,7 @@ Soy un desarrollador web fullstack capaz de realizar aplicaciones completas, tan
 <h3> 🤝 Contacto </h3>
 
 <p align="center">
-<a href="https://iancamu-portfolio-iancamudev.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-iancamu-portfolio-iancamudev.vercel.app/-blue?style=flat&logo=google-chrome"></a>
+<a href="https://cdn-icons-png.flaticon.com/512/2721/2721688.png" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-iancamu-portfolio-iancamudev.vercel.app/-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ian-camu-898830181/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@iancamu-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:iancamu01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iancamu01@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
