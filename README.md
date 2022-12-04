@@ -23,7 +23,7 @@ Soy un desarrollador web fullstack capaz de realizar aplicaciones completas, tan
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iancamudev&repo=HenryShop&show_owner=true)](https://github.com/iancamudev/HenryShop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iancamudev&repo=Gamepedia&show_owner=true)](https://github.com/iancamudev/gamepedia-front)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iancamudev&repo=gamepedia-front&show_owner=true)](https://github.com/iancamudev/gamepedia-front)
 
 <h3> 🤝 Contacto </h3>
 
